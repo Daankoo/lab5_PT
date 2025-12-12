@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/jackc/pgx/v5/pgxpool"
-	db "github.com/nochzato/example/db/sqlc"
-	"github.com/nochzato/example/internal/server"
+	db "github.com/Daankoo/lab5_PT/db/sqlc"
+	"github.com/Daankoo/lab5_PT/internal/server"
 )
 
 func main() {
